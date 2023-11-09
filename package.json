@@ -1,0 +1,23 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "JSON-SERVER",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamSanjayGupta/mock-server.git"
+  },
+  "author": "Sanjay Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamSanjayGupta/mock-server/issues"
+  },
+  "homepage": "https://github.com/IamSanjayGupta/mock-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
